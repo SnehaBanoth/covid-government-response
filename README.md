@@ -1,4 +1,4 @@
-# Covid-Government-Response
+# Covid Government Response
 Title: Impact of Government Response Worldwide during Coronavirus Pandemic
 
 The following questions were investigated using open source government response data,
